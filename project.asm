@@ -2,7 +2,6 @@
 	message: .asciiz ". degeri giriniz.\n"
 	birincideger:.float 1.0
 	girileceksayi: .float 10.0
-	sifir: .float 0.0
 	
 .text
 	main:
@@ -57,14 +56,3 @@
 			la $a0,message
 			syscall
 			jr $ra
-			
-			
-			
-	####################################		
-	##önemli floatý print ettirme ::  ##
-	##		li $v0,2	   ##
-	##		mov.s $f12,$f0	   ##
-	##		syscall		   ##
-	##				   ##
-	##				   ##
-	#################################### 
