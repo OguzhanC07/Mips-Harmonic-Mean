@@ -13,7 +13,7 @@ In this project program is calculating harmonic average of 10 values entered by 
 
 ## Installation
 
-You have to download qtspim or mars (it doesnt matter) after download open and run!
+You have to download qtspim or mars (it doesnt matter but i recommend you use mars) after download open and run!
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
